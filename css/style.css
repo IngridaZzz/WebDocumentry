@@ -1,8 +1,7 @@
     /* ADDED FONT AS FONT-FACE */
     @font-face {
         font-family: Pirates of Cydonia;
-        src: url(PiratesofCydonia.otf);
-	src: url(PiratesofCydonia.woff);
+        src: url(../PiratesofCydonia.otf);
     }
 
     /* ADDED FONT AS FONT-FACE END */
